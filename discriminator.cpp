@@ -52,4 +52,5 @@ int main() {
         }
         output_file << '\n';
     }
+    output_file.close();
 }
